@@ -1,5 +1,3 @@
-# Studio-Etereo
-Studio Etereo Academy
 <!DOCTYPE html>
 <html lang="es">
 
